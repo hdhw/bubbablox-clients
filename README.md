@@ -10,4 +10,9 @@
 
 `2020` · `2018`
 
+### Sources
+
+**BubbaBlox source:** https://github.com/harryzawg/bubbablox-v2
+**OG BubbaBlox Source:** https://github.com/unknownluau/bubbablox-src
+
 </div>
