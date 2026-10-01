@@ -4,7 +4,7 @@
 
 # BubbaBlox Clients
 
-**yall some dicks for gatekeeping 😭**
+**Clients for BubbaBlox source 💘**
 
 ### Supported Versions
 
