@@ -2,7 +2,7 @@
 
 # BubbaBlox Clients
 
-**Man fuck yall for gatekeepin this shit im done**
+**yall some dicks for gatekeeping :sob:**
 
 ### Supported Versions
 
