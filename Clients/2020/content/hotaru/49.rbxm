@@ -1,0 +1,112 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="SpecialMesh" referent="RBX072D344486B24E8B8A0C5D0CFC197330">
+		<Properties>
+			<string name="AttributesSerialize"></string>
+			<bool name="DefinesCapabilities">false</bool>
+			<string name="MeshId">rbxasset://hotaru/48.mesh</string>
+			<token name="MeshType">5</token>
+			<string name="Name">Mesh</string>
+			<Vector3 name="Offset">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<Vector3 name="Scale">
+				<X>1</X>
+				<Y>1</Y>
+				<Z>1</Z>
+			</Vector3>
+			<int64 name="SourceAssetId">-1</int64>
+			<string name="Tags"></string>
+			<string name="TextureId"></string>
+			<Vector3 name="VertexColor">
+				<X>1</X>
+				<Y>1</Y>
+				<Z>1</Z>
+			</Vector3>
+		</Properties>
+		<Item class="StringValue" referent="RBX15FDF550FE2B47CD95213F256D227206">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">AvatarPartScaleType</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<string name="Value">Classic</string>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBXEB5DFE49369C44A88B58E454E95DA074">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">FaceCenterAttachment</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBX2FC693826A184CC4BB84166992566970">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">FaceFrontAttachment</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>-0.565200031</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBX249F662589B94CAB95A80383CA2D26F5">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">HairAttachment</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>0.565200031</Y>
+					<Z>0</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBX3372816D4BD44CF0A7452403BA481080">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">HatAttachment</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>0.565200031</Y>
+					<Z>0</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBXA26DF7292AD84D869D576070560CAC8B">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<bool name="DefinesCapabilities">false</bool>
+				<string name="Name">NeckRigAttachment</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>-0.470999986</Y>
+					<Z>0</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+	</Item>
+</roblox>

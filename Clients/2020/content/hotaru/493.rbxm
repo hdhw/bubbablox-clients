@@ -1,0 +1,1885 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Folder" referent="RBX18FB0B3A705E4627BC9F8266C9075344">
+		<Properties>
+			<string name="AttributesSerialize"></string>
+			<string name="Name">R15ArtistIntent</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<string name="Tags"></string>
+		</Properties>
+		<Item class="MeshPart" referent="RBX8E19D52458FD40B39D67CC63557301C2">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<string name="AttributesSerialize"></string>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>1.19258928</X>
+					<Y>0.288140178</Y>
+					<Z>0.0190242529</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DoubleSided">false</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<bool name="HasJointOffset">true</bool>
+				<bool name="HasSkinnedMesh">false</bool>
+				<Vector3 name="InitialSize">
+					<X>0.569858551</X>
+					<Y>1.09484172</Y>
+					<Z>0.782789946</Z>
+				</Vector3>
+				<Vector3 name="JointOffset">
+					<X>-0.28158927</X>
+					<Y>0.293912411</Y>
+					<Z>-0.0190242529</Z>
+				</Vector3>
+				<string name="LODData"></string>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MeshID">rbxasset://hotaru/8650495303.mesh</string>
+				<string name="MeshId">rbxasset://hotaru/490.mesh</string>
+				<string name="Name">RightUpperArm</string>
+				<SharedString name="PhysicalConfigData">+tSg1YKJIqAoms7IKVLjLw==</SharedString>
+				<string name="PhysicsData"></string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<string name="TextureID"></string>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.569858551</X>
+					<Y>1.09484172</Y>
+					<Z>0.782789946</Z>
+				</Vector3>
+			</Properties>
+			<Item class="WrapTarget" referent="RBX82E315EF6D1247A79417357E73B6A55E">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="CageMeshId">https://assetdelivery.roblox.com/v1/asset/?id=8650495406</string>
+					<CoordinateFrame name="CageOrigin">
+						<X>-0.02366364</X>
+						<Y>0.0801469088</Y>
+						<Z>0.000381022692</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="HSRAssetId">https://www.roblox.com//asset/?id=8722536432</string>
+					<SharedString name="HSRData">TEu5a+KcwhqSlty10fKO/g==</SharedString>
+					<SharedString name="HSRMeshIdData">rmkVN4YW1bbuRzGiq/YVyA==</SharedString>
+					<CoordinateFrame name="ImportOrigin">
+						<X>-1.16892564</X>
+						<Y>-1.40459371</Y>
+						<Z>-0.0194052756</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightUpperArm</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<float name="Stiffness">1</float>
+					<string name="Tags"></string>
+					<string name="TemporaryCageMeshId"></string>
+				</Properties>
+			</Item>
+			<Item class="Attachment" referent="RBXFCE1E644358F4A92813AD2DF11E7C6F3">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>-0.28158927</X>
+						<Y>0.293912411</Y>
+						<Z>-0.0190242529</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightShoulderRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXED07073463284DBD9739B9A66ED939FC">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>-0.28158927</X>
+							<Y>0.293912411</Y>
+							<Z>-0.0190242529</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Attachment" referent="RBX8849D41810AF462EB330A4CCB08721D5">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.0374107361</X>
+						<Y>-0.304697871</Y>
+						<Z>0.122691825</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightElbowRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXF939AC3087CE423482009CE01C339C3B">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.0374107361</X>
+							<Y>-0.304697871</Y>
+							<Z>0.122691825</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Attachment" referent="RBX700ECAFB6C504A47A807DFBD1AD1DA5A">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>-0.147589207</X>
+						<Y>0.466201305</Y>
+						<Z>-0.0190243702</Z>
+						<R00>1</R00>
+						<R01>1.22464685e-016</R01>
+						<R02>-1.22464685e-016</R02>
+						<R10>-1.22464685e-016</R10>
+						<R11>1</R11>
+						<R12>-1.22464685e-016</R12>
+						<R20>1.22464685e-016</R20>
+						<R21>1.22464685e-016</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightShoulderAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBX1143C5AC467E4546900F175CA9D6B606">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>-0.147589207</X>
+							<Y>0.466201305</Y>
+							<Z>-0.0190243702</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="StringValue" referent="RBX6E3998F8696C4ED7B599A8F8DD911B82">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">AvatarPartScaleType</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<string name="Value">Classic</string>
+				</Properties>
+			</Item>
+			<Item class="Vector3Value" referent="RBX972BD747148F47DFADC336A51ECE9069">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">OriginalSize</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<Vector3 name="Value">
+						<X>0.569858551</X>
+						<Y>1.09484172</Y>
+						<Z>0.782789946</Z>
+					</Vector3>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="MeshPart" referent="RBX01EA1790D9FD4BC59F8374B078D4E764">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<string name="AttributesSerialize"></string>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>1.31010222</X>
+					<Y>-0.282374024</Y>
+					<Z>0.10211122</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DoubleSided">false</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<bool name="HasJointOffset">true</bool>
+				<bool name="HasSkinnedMesh">false</bool>
+				<Vector3 name="InitialSize">
+					<X>0.627095103</X>
+					<Y>0.947695255</Y>
+					<Z>0.616616011</Z>
+				</Vector3>
+				<Vector3 name="JointOffset">
+					<X>-0.0801022053</X>
+					<Y>0.265816331</Y>
+					<Z>0.0396048576</Z>
+				</Vector3>
+				<string name="LODData"></string>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MeshID">rbxasset://hotaru/8650495271.mesh</string>
+				<string name="MeshId">rbxasset://hotaru/491.mesh</string>
+				<string name="Name">RightLowerArm</string>
+				<SharedString name="PhysicalConfigData">+tSg1YKJIqAoms7IKVLjLw==</SharedString>
+				<string name="PhysicsData"></string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<string name="TextureID"></string>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.627095103</X>
+					<Y>0.947695255</Y>
+					<Z>0.616616011</Z>
+				</Vector3>
+			</Properties>
+			<Item class="WrapTarget" referent="RBXBA104E88532F44948A603C873583A387">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="CageMeshId">https://assetdelivery.roblox.com/v1/asset/?id=8650495409</string>
+					<CoordinateFrame name="CageOrigin">
+						<X>0.0252524614</X>
+						<Y>0.0242125392</Y>
+						<Z>0.000582940876</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="HSRAssetId">https://www.roblox.com//asset/?id=8722536436</string>
+					<SharedString name="HSRData">MLwpkLLWtI0IvpPnaBQIXw==</SharedString>
+					<SharedString name="HSRMeshIdData">BF1/0yv4bCms73h6DneGnA==</SharedString>
+					<CoordinateFrame name="ImportOrigin">
+						<X>-1.33535469</X>
+						<Y>-0.778145134</Y>
+						<Z>-0.102694161</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightLowerArm</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<float name="Stiffness">1</float>
+					<string name="Tags"></string>
+					<string name="TemporaryCageMeshId"></string>
+				</Properties>
+			</Item>
+			<Item class="Attachment" referent="RBX616E09DD73474A6889788448CC50CA82">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>-0.0801022053</X>
+						<Y>0.265816331</Y>
+						<Z>0.0396048576</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightElbowRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXE05CD5F001864EB6B80F672897845418">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>-0.0801022053</X>
+							<Y>0.265816331</Y>
+							<Z>0.0396048576</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Attachment" referent="RBX0D529E3584E848B0B7FA3208DE500E5C">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.126897812</X>
+						<Y>-0.263447464</Y>
+						<Z>0.0396048576</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightWristRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXAD823C3C003B4ACE9F385FF80C0DF0AC">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.126897812</X>
+							<Y>-0.263447464</Y>
+							<Z>0.0396048576</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="StringValue" referent="RBXA8EB7BA3703147EFA97C30E0573F010B">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">AvatarPartScaleType</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<string name="Value">Classic</string>
+				</Properties>
+			</Item>
+			<Item class="Vector3Value" referent="RBX312DE18B3E3542DE98B386C3E6B3FA52">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">OriginalSize</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<Vector3 name="Value">
+						<X>0.627095103</X>
+						<Y>0.947695255</Y>
+						<Z>0.616616011</Z>
+					</Vector3>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="MeshPart" referent="RBX7692FC418BA74C9FA7023805FD38EDDE">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<string name="AttributesSerialize"></string>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>1.38292003</X>
+					<Y>-0.97780031</Y>
+					<Z>0.00197768211</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DoubleSided">false</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<bool name="HasJointOffset">true</bool>
+				<bool name="HasSkinnedMesh">false</bool>
+				<Vector3 name="InitialSize">
+					<X>0.693339944</X>
+					<Y>1.1018163</Y>
+					<Z>0.744330883</Z>
+				</Vector3>
+				<Vector3 name="JointOffset">
+					<X>0.0540800095</X>
+					<Y>0.431978822</Y>
+					<Z>0.139738396</Z>
+				</Vector3>
+				<string name="LODData"></string>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MeshID">rbxasset://hotaru/8650495280.mesh</string>
+				<string name="MeshId">rbxasset://hotaru/492.mesh</string>
+				<string name="Name">RightHand</string>
+				<SharedString name="PhysicalConfigData">+tSg1YKJIqAoms7IKVLjLw==</SharedString>
+				<string name="PhysicsData"></string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<string name="TextureID"></string>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.693339944</X>
+					<Y>1.1018163</Y>
+					<Z>0.744330883</Z>
+				</Vector3>
+			</Properties>
+			<Item class="WrapTarget" referent="RBXC2F1B11286C14E88B71C12772BB36BC6">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="CageMeshId">https://assetdelivery.roblox.com/v1/asset/?id=8650495380</string>
+					<CoordinateFrame name="CageOrigin">
+						<X>-0.00330305099</X>
+						<Y>-0.0798506141</Y>
+						<Z>-0.0540819615</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="HSRAssetId">https://www.roblox.com//asset/?id=8722536441</string>
+					<SharedString name="HSRData">xCWbXdY96tRocI46zccyww==</SharedString>
+					<SharedString name="HSRMeshIdData">C7pFGdOJYLQFBqFrQ6Ii4g==</SharedString>
+					<CoordinateFrame name="ImportOrigin">
+						<X>-1.37961698</X>
+						<Y>0.021344319</Y>
+						<Z>0.0521042794</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightHand</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<float name="Stiffness">1</float>
+					<string name="Tags"></string>
+					<string name="TemporaryCageMeshId"></string>
+				</Properties>
+			</Item>
+			<Item class="Attachment" referent="RBX4A7091EECD974AB1BD6E3F8207979C81">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.0540800095</X>
+						<Y>0.431978822</Y>
+						<Z>0.139738396</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightWristRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBX63F59870BC044643AD3BFCC77712DDCD">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.0540800095</X>
+							<Y>0.431978822</Y>
+							<Z>0.139738396</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Attachment" referent="RBXB458083FE619405CB804DFBCB4C6283B">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>-0.07791996</X>
+						<Y>-0.147061691</Y>
+						<Z>0.139738187</Z>
+						<R00>1</R00>
+						<R01>2.24963964e-032</R01>
+						<R02>-0</R02>
+						<R10>0</R10>
+						<R11>1.83697015e-016</R11>
+						<R12>1</R12>
+						<R20>2.24963964e-032</R20>
+						<R21>-1</R21>
+						<R22>1.83697015e-016</R22>
+					</CoordinateFrame>
+					<string name="Name">RightGripAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBX1DDA370F5FE64C4597B8F43BD0706FB0">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>-0.07791996</X>
+							<Y>-0.147061691</Y>
+							<Z>0.139738187</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="StringValue" referent="RBX7B48557946C9436F8A1A916DF279E1F0">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">AvatarPartScaleType</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<string name="Value">Classic</string>
+				</Properties>
+			</Item>
+			<Item class="Vector3Value" referent="RBX50E6344F6C9545A480DE05639ABCDFD6">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">OriginalSize</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<Vector3 name="Value">
+						<X>0.693339944</X>
+						<Y>1.1018163</Y>
+						<Z>0.744330883</Z>
+					</Vector3>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+	<Item class="Folder" referent="RBX18D3B112A7F547B8861DCAC855BF1EEF">
+		<Properties>
+			<string name="AttributesSerialize"></string>
+			<string name="Name">R15Fixed</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<string name="Tags"></string>
+		</Properties>
+		<Item class="MeshPart" referent="RBX1B7B02B5CB3846158AAA0E6DFBE4D9AA">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<string name="AttributesSerialize"></string>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>1.19258928</X>
+					<Y>0.324446797</Y>
+					<Z>0.0190242529</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DoubleSided">false</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<bool name="HasJointOffset">true</bool>
+				<bool name="HasSkinnedMesh">false</bool>
+				<Vector3 name="InitialSize">
+					<X>0.569858551</X>
+					<Y>1.09484172</Y>
+					<Z>0.782789946</Z>
+				</Vector3>
+				<Vector3 name="JointOffset">
+					<X>-0.192589283</X>
+					<Y>0.438553214</Y>
+					<Z>-0.0190242529</Z>
+				</Vector3>
+				<string name="LODData"></string>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MeshID">rbxasset://hotaru/8650495303.mesh</string>
+				<string name="MeshId">rbxasset://hotaru/490.mesh</string>
+				<string name="Name">RightUpperArm</string>
+				<SharedString name="PhysicalConfigData">+tSg1YKJIqAoms7IKVLjLw==</SharedString>
+				<string name="PhysicsData"></string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<string name="TextureID"></string>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.569858551</X>
+					<Y>1.09484172</Y>
+					<Z>0.782789946</Z>
+				</Vector3>
+			</Properties>
+			<Item class="WrapTarget" referent="RBX5CE3325FABB14809850B46D530570416">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="CageMeshId">https://assetdelivery.roblox.com/v1/asset/?id=8650495406</string>
+					<CoordinateFrame name="CageOrigin">
+						<X>-0.02366364</X>
+						<Y>0.0801469088</Y>
+						<Z>0.000381022692</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="HSRAssetId">https://www.roblox.com//asset/?id=8722536444</string>
+					<SharedString name="HSRData">TEu5a+KcwhqSlty10fKO/g==</SharedString>
+					<SharedString name="HSRMeshIdData">rmkVN4YW1bbuRzGiq/YVyA==</SharedString>
+					<CoordinateFrame name="ImportOrigin">
+						<X>-1.16892564</X>
+						<Y>-1.40459371</Y>
+						<Z>-0.0194052756</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightUpperArm</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<float name="Stiffness">1</float>
+					<string name="Tags"></string>
+					<string name="TemporaryCageMeshId"></string>
+				</Properties>
+			</Item>
+			<Item class="Attachment" referent="RBX4D76B930973E41B8BC818590FB1545F5">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>-0.192589283</X>
+						<Y>0.438553214</Y>
+						<Z>-0.0190242529</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightShoulderRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBX64AD3BBB4762408780F6B5518B5BA506">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>-0.192589283</X>
+							<Y>0.438553214</Y>
+							<Z>-0.0190242529</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Attachment" referent="RBX85D0BF2BE9F845AF98C97FE0380D33D8">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.307410717</X>
+						<Y>-0.289446831</Y>
+						<Z>-0.0190242529</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightElbowRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXB4115A9027334DD4BA8A5393DCCB888E">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.307410717</X>
+							<Y>-0.289446831</Y>
+							<Z>-0.0190242529</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Attachment" referent="RBX4EF5F4A05E3F4A4EAC3BFC1D5688AF08">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.307410717</X>
+						<Y>0.628553152</Y>
+						<Z>-0.0190242529</Z>
+						<R00>1</R00>
+						<R01>1.22464685e-016</R01>
+						<R02>-1.22464685e-016</R02>
+						<R10>-1.22464685e-016</R10>
+						<R11>1</R11>
+						<R12>-1.22464685e-016</R12>
+						<R20>1.22464685e-016</R20>
+						<R21>1.22464685e-016</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightShoulderAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXEE9CC4C7BCE44A4A8D899274503FB661">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.307410717</X>
+							<Y>0.628553152</Y>
+							<Z>-0.0190242529</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="StringValue" referent="RBXE6D5ACD4856A41FFA9B8D0D48B5DD388">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">AvatarPartScaleType</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<string name="Value">Classic</string>
+				</Properties>
+			</Item>
+			<Item class="Vector3Value" referent="RBXBB05E35F4C0C4F9CADE43109E2B1D90D">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">OriginalSize</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<Vector3 name="Value">
+						<X>0.569858551</X>
+						<Y>1.09484172</Y>
+						<Z>0.782789946</Z>
+					</Vector3>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="MeshPart" referent="RBX04F36587EB4043F780B8ACDC8EE81121">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<string name="AttributesSerialize"></string>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>1.31010199</X>
+					<Y>-0.246067405</Y>
+					<Z>0.10211122</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DoubleSided">false</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<bool name="HasJointOffset">true</bool>
+				<bool name="HasSkinnedMesh">false</bool>
+				<Vector3 name="InitialSize">
+					<X>0.627095103</X>
+					<Y>0.947695255</Y>
+					<Z>0.616616011</Z>
+				</Vector3>
+				<Vector3 name="JointOffset">
+					<X>0.189897776</X>
+					<Y>0.281067371</Y>
+					<Z>-0.10211122</Z>
+				</Vector3>
+				<string name="LODData"></string>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MeshID">rbxasset://hotaru/8650495271.mesh</string>
+				<string name="MeshId">rbxasset://hotaru/491.mesh</string>
+				<string name="Name">RightLowerArm</string>
+				<SharedString name="PhysicalConfigData">+tSg1YKJIqAoms7IKVLjLw==</SharedString>
+				<string name="PhysicsData"></string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<string name="TextureID"></string>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.627095103</X>
+					<Y>0.947695255</Y>
+					<Z>0.616616011</Z>
+				</Vector3>
+			</Properties>
+			<Item class="WrapTarget" referent="RBX36BFA873229C44C18D6322BE48117D0D">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="CageMeshId">https://assetdelivery.roblox.com/v1/asset/?id=8650495409</string>
+					<CoordinateFrame name="CageOrigin">
+						<X>0.0252524614</X>
+						<Y>0.0242125392</Y>
+						<Z>0.000582940876</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="HSRAssetId">https://www.roblox.com//asset/?id=8722536454</string>
+					<SharedString name="HSRData">MLwpkLLWtI0IvpPnaBQIXw==</SharedString>
+					<SharedString name="HSRMeshIdData">BF1/0yv4bCms73h6DneGnA==</SharedString>
+					<CoordinateFrame name="ImportOrigin">
+						<X>-1.33535469</X>
+						<Y>-0.778145134</Y>
+						<Z>-0.102694161</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightLowerArm</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<float name="Stiffness">1</float>
+					<string name="Tags"></string>
+					<string name="TemporaryCageMeshId"></string>
+				</Properties>
+			</Item>
+			<Item class="Attachment" referent="RBX4DDC3A4CAFB044BD8942330903FF3F9F">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.189897776</X>
+						<Y>0.281067371</Y>
+						<Z>-0.10211122</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightElbowRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXBADF45BC8F504D8DBE1FE4A4BC166E45">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.189897776</X>
+							<Y>0.281067371</Y>
+							<Z>-0.10211122</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Attachment" referent="RBX8CFFDB14867F4CB0A41FF211337090CC">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.189897776</X>
+						<Y>-0.478932589</Y>
+						<Z>-0.10211122</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightWristRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXFFE1CC400C7349AAA020BB729B98264A">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.189897776</X>
+							<Y>-0.478932589</Y>
+							<Z>-0.10211122</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="StringValue" referent="RBXE84C9BDBCA0B40348C4512BD08BCFF47">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">AvatarPartScaleType</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<string name="Value">Classic</string>
+				</Properties>
+			</Item>
+			<Item class="Vector3Value" referent="RBXC29C2E1709A443798B93087DAE51EDE2">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">OriginalSize</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<Vector3 name="Value">
+						<X>0.627095103</X>
+						<Y>0.947695255</Y>
+						<Z>0.616616011</Z>
+					</Vector3>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="MeshPart" referent="RBXE767EE1A2CD4401CAF2E18B7FB25329B">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<string name="AttributesSerialize"></string>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">0</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>1.38291979</X>
+					<Y>-0.94149369</Y>
+					<Z>0.00197768211</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4288914085</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DoubleSided">false</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<bool name="HasJointOffset">true</bool>
+				<bool name="HasSkinnedMesh">false</bool>
+				<Vector3 name="InitialSize">
+					<X>0.693339944</X>
+					<Y>1.1018163</Y>
+					<Z>0.744330883</Z>
+				</Vector3>
+				<Vector3 name="JointOffset">
+					<X>0.117079973</X>
+					<Y>0.216493696</Y>
+					<Z>-0.00197768211</Z>
+				</Vector3>
+				<string name="LODData"></string>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">false</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MeshID">rbxasset://hotaru/8650495280.mesh</string>
+				<string name="MeshId">rbxasset://hotaru/492.mesh</string>
+				<string name="Name">RightHand</string>
+				<SharedString name="PhysicalConfigData">+tSg1YKJIqAoms7IKVLjLw==</SharedString>
+				<string name="PhysicsData"></string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<token name="RenderFidelity">1</token>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<string name="TextureID"></string>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">0</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<Vector3 name="size">
+					<X>0.693339944</X>
+					<Y>1.1018163</Y>
+					<Z>0.744330883</Z>
+				</Vector3>
+			</Properties>
+			<Item class="WrapTarget" referent="RBX64FDD80AFF28471AB308512C15DB62F9">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="CageMeshId">https://assetdelivery.roblox.com/v1/asset/?id=8650495380</string>
+					<CoordinateFrame name="CageOrigin">
+						<X>-0.00330305099</X>
+						<Y>-0.0798506141</Y>
+						<Z>-0.0540819615</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="HSRAssetId">https://www.roblox.com//asset/?id=8722536460</string>
+					<SharedString name="HSRData">xCWbXdY96tRocI46zccyww==</SharedString>
+					<SharedString name="HSRMeshIdData">C7pFGdOJYLQFBqFrQ6Ii4g==</SharedString>
+					<CoordinateFrame name="ImportOrigin">
+						<X>-1.37961698</X>
+						<Y>0.021344319</Y>
+						<Z>0.0521042794</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightHand</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<float name="Stiffness">1</float>
+					<string name="Tags"></string>
+					<string name="TemporaryCageMeshId"></string>
+				</Properties>
+			</Item>
+			<Item class="Attachment" referent="RBXDAB89D760F05499AB7100CCB776719D5">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.117079973</X>
+						<Y>0.216493696</Y>
+						<Z>-0.00197768211</Z>
+						<R00>1</R00>
+						<R01>0</R01>
+						<R02>0</R02>
+						<R10>0</R10>
+						<R11>1</R11>
+						<R12>0</R12>
+						<R20>0</R20>
+						<R21>0</R21>
+						<R22>1</R22>
+					</CoordinateFrame>
+					<string name="Name">RightWristRigAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBXD50C604812EB46E68E568DAC129E99E9">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.117079973</X>
+							<Y>0.216493696</Y>
+							<Z>-0.00197768211</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="Attachment" referent="RBX73A0330B130640FCA348A7F60D725726">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<CoordinateFrame name="CFrame">
+						<X>0.117079973</X>
+						<Y>-0.05850631</Y>
+						<Z>-0.00197768211</Z>
+						<R00>1</R00>
+						<R01>2.24963964e-032</R01>
+						<R02>-0</R02>
+						<R10>0</R10>
+						<R11>1.83697015e-016</R11>
+						<R12>1</R12>
+						<R20>2.24963964e-032</R20>
+						<R21>-1</R21>
+						<R22>1.83697015e-016</R22>
+					</CoordinateFrame>
+					<string name="Name">RightGripAttachment</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<bool name="Visible">false</bool>
+				</Properties>
+				<Item class="Vector3Value" referent="RBX8CECAC833E67428391C84A89B8CA6C90">
+					<Properties>
+						<string name="AttributesSerialize"></string>
+						<string name="Name">OriginalPosition</string>
+						<int64 name="SourceAssetId">-1</int64>
+						<string name="Tags"></string>
+						<Vector3 name="Value">
+							<X>0.117079973</X>
+							<Y>-0.05850631</Y>
+							<Z>-0.00197768211</Z>
+						</Vector3>
+					</Properties>
+				</Item>
+			</Item>
+			<Item class="StringValue" referent="RBXC1BED0008067445B8BAAF112D792B5D9">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">AvatarPartScaleType</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<string name="Value">Classic</string>
+				</Properties>
+			</Item>
+			<Item class="Vector3Value" referent="RBXCE75D347A934405EBDC8C5ECC6DC96A9">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<string name="Name">OriginalSize</string>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<Vector3 name="Value">
+						<X>0.693339944</X>
+						<Y>1.1018163</Y>
+						<Z>0.744330883</Z>
+					</Vector3>
+				</Properties>
+			</Item>
+		</Item>
+	</Item>
+	<Item class="Folder" referent="RBXDD80B57B603D43EDBDA6AFCEBC3B66C9">
+		<Properties>
+			<string name="AttributesSerialize"></string>
+			<string name="Name">R6</string>
+			<int64 name="SourceAssetId">-1</int64>
+			<string name="Tags"></string>
+		</Properties>
+		<Item class="CharacterMesh" referent="RBX5508A158A0AA4CFCAF0F6EAA5C196B97">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<int64 name="BaseTextureId">0</int64>
+				<token name="BodyPart">3</token>
+				<int64 name="MeshId">279174886</int64>
+				<string name="Name">CharacterMesh</string>
+				<int64 name="OverlayTextureId">0</int64>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+			</Properties>
+		</Item>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="BF1/0yv4bCms73h6DneGnA==">AAo4NjUwNDk1MjcxCjg2NTA0OTU0MDk3ZDQ4NWNjODI1MmMzMmUwZmQyYTkyOTBhMTgwMmU4
+OA==</SharedString>
+		<SharedString md5="C7pFGdOJYLQFBqFrQ6Ii4g==">AAo4NjUwNDk1MjgwCjg2NTA0OTUzODBjMjk5Nzc2Y2FhZjgwYzZlOWQ3NDE5MGZmYTlkNzc1
+Mg==</SharedString>
+		<SharedString md5="MLwpkLLWtI0IvpPnaBQIXw==">EAAAAADwAAAAxQMAAAAAOAAAADgAAAA4AAAAOAAAADgAAAA4AAAAOAAAADgAAAA4AAAAOAAA
+ADgAAAA4AAAAOAAAADgAAAA4AAAAOAAAADgAAAA4AAAAOAAAADgAAAA4AAAAOAAAADgAAAA4
+AAAAOAAAADgAAAA4AAAAOAAAADgAAAA4AAAAOAAAADgAAAA4AAAAOAAAADgAAAA4AAAAOAAA
+ADgAAAA4AAAAOAAAADgAAAA4AAAAOAAAADgAAAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4
+ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4
+ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4
+ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4
+ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4
+ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4ADgAOAA4
+ADgAOAA4AHAACgB6AAoAOAA4AIQADAA4ADgAkAAMAJwADACoAAoAsgAKADgAOAA4ADgAOAA4
+ALwADADIAAkA0QAJANoACgDkAAoA7gAMAPoACgAAADgAAAA4AAQBCQAAADgADQEMAAAAOAAZ
+AQoAIwEJAAAAOAAsAQoAAAA4ADYBCgBAAQkASQEMAFUBDABhAQcAaAEJAHEBDAB9AQcAhAEH
+AIsBDACXAQkAoAEMAKwBCgC2AQoAwAEIAMgBBwDPAQwA2wEJAOQBDADwAQwA/AEJAAUCCQAO
+AgQAAAA4AAAAOAASAgoAAAA4ABwCCgAmAggAAAA4AC4CDAAAADgAOgIGAEACBwA4ADgAOAA4
+AEcCCgBRAgcAOAA4ADgAOABYAgcAOAA4AF8CCgBpAgoAcwIHAHoCBwAAADgAAAA4AIECCQAA
+ADgAigIJAAAAOACTAgcAmgIJAKMCBwCqAgcAsQIJALoCDADGAgcAzQIMANkCCQDiAgcA6QIJ
+ADgAOADyAgwAOAA4AP4CDAAKAwwAFgMKACADBwAnAwoAMQMKADsDDABHAwoAUQMJAFoDBgBg
+AwwAbAMJAHUDBwB8AwkAhQMMAJEDCQCaAwcAoQMHAKgDCQCxAwQAtQMMAMEDBAAAADgAAAA4
+AIQAhQCGAIcAjACNAI4AjwCQAJEAkgCTAJgAmQCaAJsAoAChAKIArACtAK4ArwAtAC4ALwA0
+ADUALAA2ANEA0gDTANwA3QDeAN8AYABhAOEAYwDkAOUA4ADnAOgA6QDqAOsA4gDtAO4A7wBm
+AGQAZQCAAIEAggAAAAMAAgCDAAEADAANAA4ADwAQABEAEwCkAKUApgCnALQAtQC3ADgAOQA6
+ADsAQABBAEMARABFAEcAUQBSAFMA1ADVAFUA1wBYAFkAWgBbAFYAVwBUAGgAaQBrAGwAbQBu
+AG8AcABxAHMARABFAJUARwCXAJYAlAA4ADkAOgBRAFIAUwBEAEUARgBHAJUAlgCUAFEAUgBT
+AMQAxQDGAJQAlQCWAMwAzQDOAMAAwQDCAJQAlQCWAMgAyQDLAMwAzQDOAMEAwgDDAJQAlQCW
+AMgAyQA5AMsAOgA4ANoA2wDYAMgAyQDZAMsAzADNAM4A0ADRANIA0wDIAMkA2gDLANsA2AA6
+AF4AXAA5AHgAeQB6ADgAbABtAF0AbwB6AHgAyADJADkAywB5ADoAOAB0AHYAdwCIAIkAigBs
+AG0AbwB0AHUAdgB3AHgAeQB6AGwAbQBvALAAsQCyAHQAdQB2AHcAbABtAG8A4ADhAOIAkACR
+AJIAyADJAHkAywB6AHgA4ADhAOIA4wDRANIA0wDIAMkAywDgAOEA4gCQAJEAkgB4AHkAegBg
+AGEAkQBjAHQAkgCQAHYAdwB4AHkAegBgAGEAYgBjALEAsgCwAHQAdwB2AGAAYQCRAGMAdACS
+AJAAdgB3AKAAoQCiAGAAYQBiAGMAsQCyALAAoAChAKIAYABhAGMA3ADdAN4A3wCgAKEAogCE
+AIUAhgDcAN0A3wAAAAEAAgAkACUAJgAEAAUABwANAA4ADwAAAAEAAgAQACQAJQAmAAQABQAT
+AAcAEQAQABEAEgATABQAFQAXABAAEQATABQAFQAXAAgACQAKABAAEQATACQAJQAmAAQABQAH
+ABUAFwAUACAAIQAiABQAFQAWABcAIAAhACIAIwAUABUAFwAgACEAIgAkACUAJgAUABUAFwAc
+AB0AHwAgACEAIgA0ADUANwAoACkAKwA9AD4AJAAlACYABAAFAAYAPAANAA4ADwAwADEAPAAz
+AD4APQAMAA0ADgAPADAAMQAyAD0APgA/AAwADQAOADwAPQA+ADwAPwBMAE0ATgBPAD0APgA8
+AEwATQBOAE8APQA+ABwAHQAkACUAJgAfAEwATQBOADwAmgCYAEgASQCZAEsATABNAE4AIAAh
+ACIAJAAlACYAGAAZABsAHAAdAB4AHQAfACQAJQAmABgAGQAbAEwATQBOABwAmgBIAEkASgCY
+AEwATQBOAJkAGwCYAJkAmgAYAEwATQBOABkAmACZAJoAmwAaABsAmACZAJoAGAAsAC0ALgAZ
+ACAAIQAiABgAGQAaABsALAAtAC8AGAAZABoAGwAsAC0ALgAvACAAIQAiADQANQA3ACgAKQAr
+ACwALQAvADQANQA3ACwALQAvADQANQA2ADcALAAtAC8AsACxALIAtAC1ALYAtwBsAG0AbwCw
+ALEAsgCzAGwAbQBvAKAAoQCiAKMAsQCyALAAsACxALIAswC0ALUAtwB8AH0AfwC0ALUAtwBo
+AGkAagBrAHwAfQB/AKAAoQCiAKMAsQCyALAAoAChAKIAhACFAIYAhwCgAKEAogCwAGQAZQBm
+ALEAsgCwALEAsgBkAGUAZgB8AH0AfwBkAGUAZgCMAI0AjgCPAH8AfABkAGUAZgCMAI0AfQCP
+ADQANQA2AIwAjQCOAI8ANAA1ADYANwCMAI0AjwB/AHwAZABlAGcAjACNAH0AjwB/AHwAZABl
+ADUAZwA3ADQAjACNAH0AjwBoAGkAawB8AH0AfgB/ACAAIQAiADQANQA3ACgAKQAqAHwAfQB/
+ACAAIQAiABQAFQAXAHwAfQB/AGgAaQBqAGsAfAB9AH8AFAAVABcAaABpAGsAfAB9AH8AEAAR
+ABMAFAAVABcACAAJAAoAaABpAGsAUQBSAFMAxADFAMYAWABZAFoAzADNAM4AWgCeAJ8AnACo
+AKkAqgBYAMwAzQDOAFkAnwCeAJwA2ADaANsAzADNAM4AzwBYAFkAWgCcAJ0AngCfAJ8AnABY
+AKkAqgCrAFkAWgBbAJ4AnwCeAJwAWQBaAFsAPAA9AD4APwAwADEAMgA9AD8AWQBaAFsADAAN
+AA4APABPAE4ATACeAJ8AnAA8AD0ATQA/AJ8AnAC4ALkAugBMAE0ATgCeALgAuQC6AJwAngCf
+ALoAmACZAJoASABJAEoAuABMAE0ATgC5AJ8AuAC5ALoA2gDbAJwA2ACeALgAuQC6ALsAnACe
+AJ8A0QDSANMAuAC5ALoA2gDbANgAmgC8AL0AvwC4ALkAugCYAJkArQCuAK8AvQC/ALgAuQC6
+ALwArQCuAK8AmACZAJoAmwCtAK4ArwCYAJkAmwCsAK0ArgCvAL0AvgC4ALkAugC8AK0ArgCv
+AKwArQCuAK8AvQDRANIA0wC+ALgAuQC6ALwArQCuAK8ArACtAK4ArwA5NDdjZTc3OWYxNzE1
+ZTFkZTAyMWI4ODlmZmJhOTZlNg==</SharedString>
+		<SharedString md5="TEu5a+KcwhqSlty10fKO/g==">EAAAAAAmAQAA9wQAAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAA
+ADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAx
+AAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAA
+ADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAx
+AAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAA
+ADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxAAAAMQAAADEAAAAxADEABwA4ADwAdAAH
+AHsACgCFAAkAjgAJAJcABgCdAAYAowAGAKkAAwA4ADwArAAHADgAPACzAAwAvwAHAMYABwDN
+AAcA1AAJADgAPADdAAkAOAA8ADgAPADmAAYA7AAGAPIABgD4AAYA/gAGAAQBCQANAQkAFgEG
+ABwBCgAmAQcALQEKADcBBwA4ADwAPgEHAEUBDABRAQcAOAA8AFgBCQA4ADwAYQEMAG0BBwB0
+AQoAfgEJAIcBCAAAADEAjwEMAAAAMQCbAQoApQEMALEBCQC6AQwAxgEKANABCgDaAQoAOAA8
+ADgAPAA4ADwAOAA8ADgAPADkAQkA7QEMAPkBBwAAAgcABwIGAA0CAwAQAgMAEwIGABkCBgA4
+ADwAHwIGACUCBAApAgYALwIGADUCCQA+AgkARwIGADgAPABNAgkAOAA8AFYCDABiAgYAaAIK
+AHICBwB5AgcAOAA8AIACBgA4ADwAhgIJAI8CCQCYAgoAogIMAK4CCQA4ADwAtwIJADgAPADA
+AgkAyQIJANICCgAAADEA3AIHAAAAMQDjAgwAAAAxAAAAMQDvAgwAAAAxAPsCDAAHAwoAAAAx
+AAAAMQA4ADwAOAA8ADgAPAARAwoAOAA8ABsDCQAkAwcAKwMJADQDCQA4ADwAOAA8AD0DBwBE
+AwcAOAA8ADgAPABLAwkAVAMJAF0DBwBkAwQAaAMJAHEDCgB7AwcAggMGAIgDCgCSAwoAnAMJ
+AKUDBwCsAwcAswMGALkDBgC/AwkAyAMHAM8DCQDYAwoA4gMJAOsDBwDyAwoA/AMJAAUECQAO
+BAkAFwQKACEECQAqBAkAMwQJADwECQBFBAcATAQJAFUEBwBcBAkAZQQHAGwEBwBzBAkAfAQH
+AIMECgCNBAkAlgQKADgAPAA4ADwAOAA8ADgAPAA4ADwAOAA8ADgAPAA4ADwAOAA8ADgAPAA4
+ADwAOAA8ADgAPAA4ADwAOAA8ADgAPAA4ADwAOAA8ADgAPAA4ADwAOAA8ADgAPAA4ADwAOAA8
+ADgAPACgBAwAOAA8ADgAPAA4ADwAOAA8ADgAPAA4ADwAOAA8ADgAPAA4ADwAOAA8ADgAPACs
+BAcAOAA8ADgAPACzBAwAvwQKAMkEDAAAADEAAAAxAAAAMQDVBAwAAAAxAOEEDAAAADEA7QQK
+AIAAgQCCAIMAhACFAIYAhwCIAIkAigCLAJAAkQCSAJMApAClAKYAuAC5ALoAuwC8AL0AvgC/
+AEwATQBOAE8AUABRANEAUwDTANIA0ABYAFkAWgBbANwA3QDeAHwAfQB+AH8A6ADpAOoAGAAZ
+ABoAGwAAAAEAAgADAAQABQAGAAcACAAJAAoACwAQABEAEgATABgAGQAaAJwAnQCeAJ8AKAAp
+ACoAKwCsAK0ArgCvAMAAwQDCAMMAxADFAEUAxwBGAEQA4ADhAOIA4wDoAOkA6gDrAOwA7QDu
+AO8AbQBvAHQAdQB2AHcAbAAAAAEAAwAYABkAGgAbAAAAAQADABgAGQAbAAwADQAOAA8AJAAm
+ACcAGAAZABsADAANAA8AYQBiAGMAJAAmACcADAANAA8A6ADpAOoAGAAZABsAJAAmACcAGAAZ
+ABsA6ADpAOoAGAAZABsA6ADpAOoA6ADpAOoA6wDsAO0A7wBAAGEAYgBjAEEAJABDACYAJwAM
+AA0ADwBgAGEAYgBAAEEAQwBjACQAJQAmACcAGAAZABsAQABBAEMAJAAlACYAJwAZAOgA6QDq
+ABgArACtABsArwAkACUAJgAYABkAGwCsAK0ArwAkACUAJgCsAK0ArwBAAEEAQwAkACUAJgAk
+ACUAJgCsAK0ArwBgAGEAYgBAAEEAQwBAAEEAQwAkACUAJgBgAGEAYgBAAEEAQwCNAI4AjwBA
+AEEAQwAkACUAJgCsAK0ArwBAAEEAQwAkACUAJgBAAEEAPABDAD8APQCMAI0AjgCPAEAAQQBC
+AEMAPAA9AD8APQA8AJQAlQCXAD8AjACNAI4AjwBAAEEAQwCsAK0ArgCvAO0A7ADvAKwArQCu
+AK8AQABBAG8AQwA/ADwAbQA9AKwArQCuAGwAQABBAEIAQwA8AD0APwBtAG8APQA/ADwArACt
+AK4AbAA9AD8AlACVAJcAWABZAFsAjACNAI4APABYAFkAWwA8AD0APgA/AJAAkQCTAJQAlQCW
+AJcAWABZAFsAkACRAJMAiACJAIoAWABbAFkAWABZAFoAWwA8AD0APgA/AD0APAB5AD8AWABZ
+AFoAeABsAG0AewBvAFcAxADFAMYAxwBVAFQAbABtAG8AeQBUAFUAVwBYAFkAWgB4AGwAbQB7
+AG8AVABVAFcAiABYAIoAiwBZAFoA2gDEAMUAtQDHAFUAtgC0ANgA2QBXAFQAgACBAIIAgwBU
+AFUAVwCIAIoAiwCAAIIAgwC0ALUAtgBUAFUAVgBXAIAAggCDALQAtQC2ALgAuQC6ALsAIAAh
+ACIACAAJAAoAKwApACoAIAAhACIALgAIAAkACgArACkAKgAtACwAKAApACoAKwAsAC0ALgAg
+ACEAIgAjACwALQAuACgAKQAqAJwAnQCeAJwAnQCeAJwAnQCeACgAKQAqAJwAnQCeACgAKQAq
+ACwALQAuACgAKQAqAJwAnQCeAJwAnQCeAJ8AIAAhACMALAAtAC4AKAApACoALAAtAC4AIAAh
+ACMASABJAEoALAAtAC4AnQCeACgAKQAqACwALQAuAJwAKAApACoALAAtAC4AnQCeAHQAdQB2
+ACwALQAuAJwAIAAhADEAIwAyADAASABJAEoALAAtAC4AMAAxADIALAAtAC4AMAAxADIASABJ
+AEoASwBcAF0AXgB0AHUAdgAsAC0ALgAvADAAMQAyACwALQAuAC8AdAB1AHYALQAuAC8AMAAx
+ADIANAA1ADcAXABdAF4AMAAxADIANAA1ADcALQAuAC8ANAA1ADcAOQA6ADsAXABdAF4AXwAx
+ADIAMwBEAEUARgB0AHUAdgAtAC4ALwAxADIAMwA0ADUANwAtAC4ALwAxADIAMwBEAEUARgB0
+AHUAdgA0ADUANwA5ADoAOwB8AH0AfwAxADIAMwA0ADUANwB8AH0AfwBQAFEAUgBTADkAOgA7
+AHwAfQB/ADEAMgAzAHwAfQB+AH8AMQAyADMARABFAEYANAA1ADYAfAB9AH4AvQC/AEQARQBG
+AOYA5QDnAHwAfQB+ALwARABFAEYAdABoAGkAagB1ALwAdwC9AL8AdAB1AHcAaQBqAGsAvAC9
+AL4AvwAgACEAIgAQABEAEgATAAgACQAKACAAIQAiABAAEQASABwAHQAfACAAIQAiACMAHAAd
+AB8AEAARABIABAAFABUABwAXABQAEAARABIAFAAVABcAHAAdAB8ABAAFABUABwAXABYAFAAE
+AAUABgAHABUAFgAUAAAAAQADAAQABQAGAAwADQAPAAQABQAGABQAFQAWAAwADQAPABQAFQAW
+ABcADAANAA8AFAAVABYAFwBhAGIAYwAUABUAFwAMAA0ADwBwAGEAYgBjAHEAcgBzABQAFQAX
+AGAAYQBiAGMAcwByAHAAZABlAGYAFAAVABcAcABxAHIAcwBkAGUAZgAUABUAFwBkAGUAZgAU
+ABUAFwAcAB0AHgAfAGAAYQBiAHAAcwByAI0AjgCPAGQAZQBmABwAHQAeAB8AIAAhACMAHAAd
+AB4AHwBwAHIAcwBkAGUAZgBkAGUAZgAcAB0AHgAgACEAIwBkAGUAZwAcAB0AHgBkAGUAZgBn
+ABwAHQAeACAAIQAjAGQAZQBnAEgASQBKALAAsQCyAHAAZABlAGYAcgBzALMAsACxALIAcABz
+AHIAjQCOAI8AoAChAKMAZABlAGYAZwCgAKEAsQCjAGQAZQBmALIAswCwALAAsQCyAKgAqgCr
+AI0AjgCPAKAAoQCxAKMAsgCwAKgAqgCrAJQAlQCXAKgAqgCrAI0AjgCPAJAAkQCTAJQAlQCW
+AJcAqACqAKsAkACRAJMApAClAKYAqACqAKsApAClAKYAqACZAKoAqwCbAJgAoAChAKMAqACZ
+AKoAqwCbAJgApAClAKYAhACFAJkAhwCYAJsAoAChAKIAowBkAGUAZwCgAKEAogBkAGUAZwBI
+AEkASgCgAKEAogCjAJgAmQCbAKAAoQCiAEgASQBKAFwAXQBeAIQAhQCHAJgAmQCaAJsAoACh
+AKIAmACZAJoAmwCgAKEAogCYAJkAmgBcAF0AXgCEAIUAhgCHAJgAmQCaAF4AOACYAJkAmgA7
+ADkAOgBdAFwAhACFAIYAmACZAJoAOwA5ADoAUABRAFIAUwCEAIUAhgA5ADoAOwDAAMEAwgDE
+AMUAtQDHAMgAyQDKALYAtADhAOIA4wCcAJ0AngCfAL0AwQDCAMMAdAB1AHcAvgC8AM0AzgDP
+AMAAwQDCAMMA0QDQANMAzADNAM4A0ADBAMIAwwDRANUA0wDUANcAvAC9AL4AwADBAMIA0ADR
+ANQA0wDWANUA3ADdAN4AwADBAMIAtAC1ALYA2ADZANsA3ADdAN4AtAC1ALYAuAC5ALoAuwDc
+AN0A3gBlNjU3OTVjNjk4M2NkY2YxOWJhMzRjZmI1OWY2MmRhOA==</SharedString>
+		<SharedString md5="rmkVN4YW1bbuRzGiq/YVyA==">AAo4NjUwNDk1MzAzCjg2NTA0OTU0MDZhZWVmNjZiYjc1NjljZmMyYTBkNDFmOWNlODQ2OGQ1
+Nw==</SharedString>
+		<SharedString md5="xCWbXdY96tRocI46zccyww==">EAAAAAAUAgAANAwAAAAAIgAAACIAAAAiAAAAIgAAACIAAAAiAAAAIgAAACIAAAAiAAAAIgAA
+ACIAAAAiAAAAIgAAACIAAAAiACIABgAAACIAAAAiAAAAIgAAACIAAAAiACgAAwAAACIAKwAD
+AAAAIgAAACIAAAAiAC4ABgAAACIANAAGAAAAIgAAACIAAAAiAAAAIgAAACIAAAAiAAAAIgAA
+ACIAAAAiAAAAIgAAACIAAAAiAAAAIgAAACIAAAAiADoACQBDAAkATAAGAFIACQBbAAYAYQAH
+AGgAAwBrAAcAcgAEAHYABwB9AAQAgQAEAIUABACJAAYAjwAEAJMABgCZAAcAoAAGAKYACQCv
+AAwAuwAGAMEABwDIAAYAzgAHANUABwDcAAYA4gAJAOsACQD0AAYA+gADAP0ABgADAQcACgEH
+ABEBBwAYAQkAIQEEACUBBwAsAQMALwEHADYBBgA8AQQAQAEGAEYBCQBPAQcAVgEMAGIBCQBr
+AQYAcQEJAHoBCgCEAQYAigEKAJQBBgCaAQYAoAEGAKYBCgCwAQgAuAEEALwBBwDDAQkAzAEH
+ANMBBgDZAQYA3wEJAOgBCQDxAQcA+AEGAP4BAwABAgMABAIEAAgCBgAOAgMAEQIGABcCBwAe
+AgQAIgIEACYCBAAqAgMALQIGADMCBgA5AgYAPwIJAEgCBgBOAgYAVAIJAF0CCQBmAgoAcAIJ
+AHkCBgB/AgMAggIHAIkCCgCTAgYAmQIDAJwCAwCfAgQAowIHAKoCBACuAgQAsgIJALsCCQDE
+AgcAywIJANQCBgDaAgkA4wIEAOcCAwDqAgwA9gIMAAIDBgAIAwcADwMKABkDBgAfAwcAJgMD
+ACkDAwAsAwYAMgMGADgDBgA+AwMAQQMGAEcDCQBQAwYAVgMHAF0DCQBmAwcAbQMGAHMDCQB8
+AwcAgwMHAIoDBgCQAwYAlgMJAJ8DBgClAwkArgMMALoDAwC9AwMAwAMGAMYDBgDMAwkA1QMG
+ANsDAwDeAwoA6AMGAO4DCQD3AwYA/QMJAAYEBgAMBAkAFQQKAB8EBwAmBAkALwQEADMEAwA2
+BAcAPQQHAEQEBgBKBAcAUQQEAFUECQBeBAkAZwQEAGsECABzBAYAeQQHAIAEDACMBAcAkwQH
+AJoEBwChBAoAqwQKALUEAwC4BAkAwQQHAMgEBAAAACIAzAQIANQECQAAACIA3QQIAOUEDAAA
+ACIA8QQHAPgECQABBQcACAUKABIFBwAZBQkAIgUHACkFCgAzBQYAOQUHAEAFCQBJBQcAUAUG
+AFYFCQBfBQQAYwUHAGoFBABuBQQAcgUHAHkFAwB8BQMAfwUJAIgFBgCOBQYAlAUHAJsFBwCi
+BQQApgUDAKkFCQCyBQYAuAUKAMIFBwDJBQQAzQUDANAFBgDWBQYA3AUDAN8FCgDpBQcA8AUD
+APMFBgD5BQYA/wUGAAUGAwAIBgMACwYGABEGBgAXBgkAIAYJACkGCQAyBgYAOAYGAD4GCgBI
+BgcATwYHAFYGBgBcBgcAYwYGAGkGBABtBgQAcQYEAHUGBAB5BgMAfAYDAH8GAwCCBgMAhQYG
+AIsGBgCRBgYAlwYGAJ0GCQCmBgYArAYHALMGAwC2BgMAuQYEAL0GBgDDBgMAxgYGAMwGBADQ
+BgQA1AYHANsGBgDhBgMA5AYGAOoGAwDtBgYA8wYEAPcGAwD6BgcAAQcGAAcHCQAQBwYAFgcJ
+AB8HBgAlBwYAKwcGADEHAwA0BwYAOgcGAEAHAwBDBwcASgcGAFAHAwBTBwkAXAcEAGAHBwBn
+BwMAagcGAHAHBAB0BwYAegcEAH4HBwCFBwkAjgcGAJQHCQCdBwkApgcHAK0HBgCzBwkAvAcG
+AMIHBgDIBwYAzgcHANUHBADZBwcA4AcGAOYHBwDtBwYA8wcJAPwHCQAFCAYACwgGABEIBAAV
+CAQAGQgDABwIBwAjCAQAJwgHAC4ICQA3CAYAPQgHAEQIBwBLCAkAVAgJAF0ICQBmCAkAbwgG
+AHUIBgB7CAMAfggHAIUIAwCICAYAjggHAJUIBgCbCAwApwgKALEIBgC3CAYAvQgKAMcIBwDO
+CAQA0ggGANgICQDhCAMA5AgDAOcICQDwCAYA9ggJAP8IBwAGCQYADAkHABMJAwAWCQcAHQkG
+ACMJBwAqCQYAMAkDADMJBAA3CQkAQAkGAEYJCQBPCQkAWAkHAF8JBgBlCQYAawkGAHEJAwB0
+CQcAewkJAIQJAwCHCQYAjQkEAJEJBACVCQMAmAkHAJ8JBwCmCQQAqgkDAK0JBgCzCQYAuQkM
+AMUJCQDOCQMA0QkGANcJAwDaCQYA4AkGAOYJBgDsCQkA9QkGAPsJBgABCgMABAoDAAcKBgAN
+CgcAFAoJAB0KBgAjCgYAKQoGAC8KBgA1CgkAPgoGAEQKAwBHCgMASgoDAE0KAwBQCgMAUwoE
+AFcKBABbCgQAXwoEAGMKBABnCgMAagoHAHEKBgB3CgcAfgoGAIQKBgCKCgYAkAoDAJMKCQCc
+CgYAogoGAKgKBgCuCgkAtwoGAL0KBgDDCgkAzAoEANAKBADUCgcA2woEAN8KCQDoCgYA7goD
+APEKCQD6CgcAAQsGAAcLCQAQCwcAFwsGAB0LBAAhCwYAJwsHAC4LBgA0CwcAOwsMAEcLBwBO
+CwcAVQsGAFsLBABfCwQAYwsDAGYLBABqCwYAcAsGAHYLAwB5CwkAggsDAIULCQCOCwMAkQsJ
+AJoLBgCgCwkAqQsJALILBgC4CwMAuwsGAMELCQDKCwcA0QsJANoLBwDhCwYA5wsGAO0LCQD2
+CwMA+QsMAAUMCQAODAMAEQwHABgMBgAeDAkAJwwHAC4MBgCAAIEAggAAAIQAhQAGAIcABQAD
+AAQAAQBMAE0ATgBPABAAEQASAJMAlACWAAIAWABZAFoABwCDACAAIQAiAGQAZQBmACAAIQAi
+AFgAWQBaAFgAWQBaAFgAWQBaAAQABQAGAFgAWQBaAAQABQAGAFgAWQBaABoAGABIAEkAGQCL
+AIwAjQBLABoAGABIAEkAGQBLAGwAbQBuAEgASQCLAIwAjQBLAD0APgBIAEkASwBsAG0AbgA8
+AEgASQBLADwAPQA+AD0APgA/AGwAbQBuADwAbABtAG4APQA+AD8AbABtAG4APABsAG0AbgBv
+ABgAGQAaAGwAbQBuAG8AbABtAG4AbwBsAG0AbgBvADwAPQA+AD8ASABJAEsAPAA9AD4APAA9
+AD4APwAYABkAGwBtAG4AbwAYABkAGgAbAG0AbgBvABgAGQAbAG0AbgBvABsAuAC5ALoAGAAZ
+AG0AbgBvABsA2AAYANcAuAC5ALoA2gAZAG0AbgBvANcAuAC5ALoA2gDYANcA2ADZANoAuAC5
+ALoA1wDYANkAuQC4ALoAuAC5ALoAGAAZABoAGwC4ALkAugAYABkAGgAbANcA2ADZALkAuAC6
+ALoA1wDYANkAuQCLAIwAjQC4ABoAuAC5ALoAiwCMAI0AGAAZALgAuQC6AIsAjACNAIsAjACN
+AEgASQBKAIsAjACNAEgASQBKAIsAjACNAEsASABJAEoAiwCMAI0AjgCXAJgAmQCLAIwAjQCO
+AJAAkQCSAJcAmACZAIwAjQCOAEgASQBKAEsASABJAEoASwA8AD0APgBIAEkASgBIAEkASgCL
+AIwAjQCOAEgASQBKADwAPQA+ADwAPQA+AD8AZABmAGcASABJAEoAZABmAGcASABJAEoAPAA9
+AD4AEAARABMAPAA9AD4APwCgABEAogAQABMArwA9AD8APACtAK4AnwAQABEAnwATAKEAoACt
+AK4ArwAQABEAEwA8AD0APgAQABEAEwBkAGYAZwA8AD0APgAgACEAIgAjABEAEAATAK0ArgCv
+ACAAIQAiABAAEQATACAAIQAiACMAWABZAFoArQCuAK8AIAAhACIAWABZAFoAIAAhACIAWABZ
+AFoAIAAhACIAEAARABMAIAAhACIAEABkAGUAZgARABIAEwAQABEAEgATAGQAZQBmAGcAZABl
+AGYAZwBkAGUAZgBnAEgASQBKAA0ADgBcAF0AXwAMAB0AHgAfAF0AXgBfAFwAHQAeAB8AHQAe
+AAwADQAOAB8AHQAeAAwADQAOAB8AHQAeABQAFQAWAAwADQAOAB8AFAAVABYAOAA5ADoAHQAe
+AB8AOAA5ADoAHAAdAB4AHwAdAB4AXABdAF4AHwAdAB4AHwAdAB4AHwAcAB0AHgAfAB0AHgBc
+AF0AXgAfAB0AHgAfAB0AHgBcAF0AXgAfAF0AXgBcABwAHQAeAB8AHAAdAB4AHwAcAB0AHgAf
+ABwAHQAeAB8AHAAdAB4AOAA5ADsAHAAdAB4AOAA5ADsAHAAdAB4AOAA5ADsAHAAdAB4AQABB
+AEIAXQBfAAwADQAOAFwAQABBAEIAXABdAF8AQABBAEIAXABdAF8AYABhAGIAQABBAEIAXABd
+AF8AYABhAGIAeAB5AHoAXABdAF8AYABhAGIAcABxAHIAeAB5AHoAewBwAHEAcgB0AHUAdgB4
+AHkAegB4AHkAegBcAF0AXwBcAF0AXwB4AHkAegBcAF0AXgBfAHQAdQB2AHgAeQB6AFwAXQBe
+AF8AdAB1AHYAXABdAF4AXABdAF4AXABdAF4AXABdAF4AXwBdAF4AHABcAB0AHgAfAFwAXQBe
+AF8AXABdAF4AXwB0AHUAdgBUAFUAVgBcAF0AXgBUAFUAVgDIAMkAywBcAF0AXgBUAFUAVgBX
+AHUAdgB0AHQAdQB2AFQAaABpAGoAVQBXAFQAVQBWAMgAyQDLAFQAVQBWAMgAyQDLABwAHQAe
+AFQAVQBWAFcAVABVAFYAkACRAJIAVABVAHYAVwBoAGkAagB3AHQAkACRAJIAfQB/AGgAaQBq
+AIwAjQCOAHwAkACRAJIAjACNAI4AkACRAJIAmwCcAJ0AngCQAJEAkgBUAFUAVwCbAJwAnQCe
+AJAAkQCSAJsAnACeAFQAVQBWAFcAmwCcAJ4AmwCcAJ4AmwCcAJ4AVABVAFYAmwCcAJ4ApgCn
+AKgAmwCcAJ4AVABVAFYAmwCcAJ4AVABVAFYApgCnAKgAmwCcAJ4AVABVAKYApwCoAFYAmwCc
+AJ4ApgCnAKgACAAJAAoApgCnAKgAqQAJAAgACgA0ADUApgCnAAgAqQAJAAoANgA0ADUANgA3
+AAgACQAKADQANQA3AAgACQAKAFQAVQCmAKcAqAAJAAoACwBWAKYApwCoAAgACQAKAAsANAA1
+ADcACAAJAAoACwCmAKcAqAAJAAoACwA0ADUANwAJAAoACwA0ADUANwA4AAkACgALADkAOwA4
+AAkACgALADkAOwDeAOEAOAAJAAoACwA5ADsA3wAdAOEAHAAeAMgAyQAJAMsACwAKAN4A3wAJ
+AAoACwAJAAoACwDIAMkACQDLAAsACgBUAFUAVgAJAAoACwBUAFUAVgDIAMkACQDLAAsACgBU
+AFUAVgAJAAoACwBkAGUAZgBkAGUAZgBnAEgASQBKAHwAfQB+AIAAgQCCAGQAZQBmAIAAgQCC
+AGQAZQBmAHwAfQB+AIAAgQCCAGQAZQBmAH0AfgBIAEkASgCMAI0AjgB8AIAAgQCCAJMAlACW
+AH0AfgBoAGkAagCMAI0AjgB8AIAAgQCCAIMAkwCUAJUAfAB9AH4AgACBAIIAkwCUAJUAlgCT
+AJQAlQBoAGkAagB8AH0AfgCTAJQAlQCWAJMAlACWAJMAlACVAJYAaQBqAGsAkwCUAJUAaABp
+AGoAawCTAIQAhQCGAJQAlgCTAIQAhQCGAIcAlgCUAIQAhQCGAIcAcABxAHIAkwCEAIUAhgCU
+AJYAcABxAHIAkwCUAJYAaQBqAGsAhACFAIYAhwBwAHEAcgBzAIQAhQCGAIcAhACFAIcATABN
+AE4AdAB1AHYAaABpAGoAawBwAHEAcgB0AHUAdgB4AGkAagBrAHkAegCEAIUAhwBMAE0ATgBP
+AAAAAQADAEwATQBOAE8AAAABAAMATABNAE4ATwBQAFEAUgBTAIQAhQCHAEwATQBPAHAAcQBy
+AFAAhACFAHMAhwBSAFEAAAABAAMAAAABAFEAAwBTAFIATABNAE8AUABRAFIAUwBMAE0ATwAA
+AAEAAgADAAAAAQACAAMAKAApACoAKwAAAAEAUQADAFMAUgAoACkAKgBgAGEAYgBjAFEAUgBQ
+AFMAYABhAGIAcABxAHIAUABRAFIAeQB4AHsAAAABAAIAKAApACoAKwAAAAEAAgAFAAYABwAo
+ACoAKwAwADEAMwAoACkAKgArADAAMQAzALQAtgC3ACgAKQAqACsAMAAxADIAMwAoACkAKgBE
+AEUAtgBHACgAKgArALcAtAAwADEAMgAzACgAKQAqADAAMQAyAFMAUQBSADMAKAApACoAMAAx
+ADIALAAtAC8ARABFAEYARwAoACoAKwBEAEUARgAHAAUABgAqACgAKwCwAEQARQBGAEcArgCv
+ALAARABFAEYArgCvALAARABFAEYABwAFAAYArgCvALAArQCuAK8AsAAEAAUABgAHAK4ArwAE
+AAUABgAHALAArQCuAK8AsAAEAAUABgCtAK4ArwCtAK4ArwCtAK4ArwAEAAUABgBZAFoAWwCt
+AK4ArwAEAAUABgBZAFoAWwBZAFoAWwCtAK4ArwAEAAUABgBYAFkAWgBbAFgAWQBaAFsArQCu
+AK8AWABZAFoAWwBYAFkAWgBgAGEAYgAwADEAMgBTAFEAUgBgAGEAYgBTAFEAUgBgAGEAYgAw
+ADEAMgAsAC0ALgAvADAAMQAyACwALQAuAC8ALAAtAC4ALwAsAC0ALgAkACUAJwAsAC0ALgBg
+AGEAYgAsAC0ALgAsAC0ALgBAAEEAQgBgAGEAYgBDACwALQAuAEAAQQBCAGAAYQBiAEMALAAt
+AC4AQABBAEIALAAtAC4AQABBAEIALAAtAC4AQABBAEIAYABhAGIAQABBAEIAQABBAEIAQABB
+AEIAzADNAM4AJAAlACcALAAtAC4AQABBAEIAJAAlACcALAAtAC4AQABBAEIADQAOAMwAzQDO
+AA8AQABBAEIAJAAlACcADQAOAA8ADQAOAMwAzQDOAA8ADQAOAMwAzQDOAA8ADQAOAA8A4wDi
+AOUAzADNAM4ADADiAOMA5QAMAA0ADgAPACQAJQAmAAwADQAOAA8AJAAlACcADQAOAA8AJAAl
+ACYAJwANAA4ADwAkACUAJwANAA4ADwAkACUAJgAnACQAJQAmACcAJAAlACYAJwAkACUAJgAn
+ACQAJQAnACQAJQAnACQAJQAnACQAJQAnACQAJQAnACwALQAuACQAJQAnACwALQAuAOIA4wAk
+ACUAJgDlAOIA4wAkACUAJgDlAOIA4wAkACUAJgDlAAwADQAOAOIA4wDlAAwADQAOAOIA4wAk
+ACUAJgDkAOUA4gDjAOUA4gDjAOUA4gDjAOQA5QDiAOMA5QDMAM0AzgDiAOMA5QDiAOMA5QDM
+AM0AzgDiAOMA5ADlAOIA4wDkAOUA4gDjACQAJQAmACcA5ADiAOMA5QDMAM0AzgDMAM0AzgDi
+AOMAJAAlACcA5ADiAOMA5ADiAOMAJAAlACcA5ADiAOMA5ADlAOIA4wDkAOIA4wDkAOUAzADN
+AM4AQABBAEIAzADNAM4A4gDjACQAJQAnAOQAzADNAM4A4gDjAOQAzADNAM4ALQAuACQAJQAn
+AMwAzQDOACwA4gDjAOQAzADNAM4A4gDjAOQAzADNAM4AQABBAEIAzADNAM4AzADNAM4AQABB
+AEIAzADNAM4ALQAuAMwAzQDOACwAzADNAM4ALQAuAC8AzADNAM4ALABAAEEAQgDMAM0AzgDM
+AM0AzgBAAEEAQgDEAMUAxgDMAM0AzgDMAM0AzgDPAC0ALAAvAMwAzQDOAM8AzADNAM4AxADF
+AMYAzADNAM4AzADNAM4AzwAvACwAzAAtAM4AzwDMAM0AzgDPAMQAxQDGAMwAzQDOAM8ALwAw
+ACwAMgAxAMwALQDOAM8AxADFAMYAzADOAM8AMAAxADIAtAC1ALYAzADOAM8AxADFAMYAtAC1
+ALYAzADOAM8AMAAxADIAMwC0ALUAtgDEAMUAxgC8AL0AvwDEAMUAxgC0ALUAtgC8AL0AvwDE
+AMUAxgC8AL0AvwAwADEAMwC0ALUAtgC0ALUAtgC8AL0AvwAwADEAMwC0ALUAtgC3ALQAtQC2
+ALcAtAC1ALYAvAC9AL4AvwC0ALUAtgC8AL0AvgC0ALUAtgC3ALwAvQC+ALQAtQC2ALwAvQC+
+AEQARQC2AEcAtwC0ALwAvQC+ALAAvgBEAEUARwC8AL0ArgCvALAAvgC8AL0ArgCvALAAvgC8
+AL0ArgCvALAArQCuAK8AvAC9AL4AvwC8AL0AvwCwAL4AvwC8AL0ArgCvALwAvQC+AL8AsACg
+AJ8AoQCtAK4ArwCwAKAAvwChAJ8AvAC9AK4ArwCfAKAAoQCtAK4ArwCgAKEAogCvAK0ArgCf
+AKAAoQCiAL8AvAC9AJ8AoACiAD0ArwA/ADwArQCuAJ8AoACxAKIAsgCzAD8APAA9AJ8AoACx
+AKIAsgCzAMIAwADBAJ8AoADAAKIAwgDBAL8AvAC9AJ8AwADBAMIAvAC9AL8AwADBAMIAvAC9
+AL8AvAC9AL8AwADBAMIAwwC8AL0AvwC8AL0AvwDAAMEAwwC8AL0AvwDEAMUAxgDHALwAvQC/
+AMAAwQDDALwAvQC/AMAAwQDDAMQAxQDHAMgAyQDKALwAvQC/ANAA0QDSAMAAwQDDAIsAjACN
+AI4A0ADRANIAwADBAMMA0ADRANIAwADBAMMAwADBAMMAlwCYAJkAiwCMAI0AjgDAALEAsgCz
+AMEAwgDDAMAAwQDCAMMAwADBAMMAlwCYAJkAkACRAJIAwADBAMMAlwCYAJkAwADBAMMAwADB
+AMMAkACRAJIAwADBAMMAyADJAMoAwADBAMMAyADJAMoAkACRAJIAyADJAMoAmwCcAJ0AkACR
+AJIAmwCcAJ0AngDAAMEAwwDIAMkAygDIAMkAygDLAJsAnACdAMgAyQDKAMgAyQDLAJsAnACd
+AJ4AyADJAMsAnACbAJ4AyADJAMoAywCbAJwAnQDIAMkAywCbAJwAnQDIAMkAygDIAMkAygDL
+AMAAwQDDAMQAxQDHAMgAyQDKAMQAxQDHAMgAyQDKAOYA5wDoAMkAyADLAJwAmwCeAOYA5wDo
+AKYApwCoAJwAmwCeAOYA5wDoAKYApwCoAKkA5gDnAOgAyQDIAMsA5gDnAOgAyQDIAMsA5gDn
+AOgApgCnAKkA5gDnAOgA5gDnAOgA6QCnAKYAqQA2ADQANQDmAOcApwDpAKkApgDmAOcA6ADm
+AOcA6ADJAMgAywDIAMkAygDLAOYA5wDoAOkA5gDnAOgANAA1AOYA5wDoAOkANwA0ADUA5gDn
+ADcA6QA2ADQANQA2ADcANAA1ADcANAA1ADcAOAA5ADsANAA1ADcAOAA5ADsA4QA0ADUA5gDn
+AOgAOQA3ADgAOwDeAN8A4QA0ADUA5gDnAOgANwDeAN8A5gDnAOgA4QDmAOcA6ADeAN8A5gDn
+AOgA4QDmAOcA6ADeAN8A4QA4ADkAOwDeAN8A5gDnAOgAyQDIAMsA4QDmAOcA6ADJAMgAywDe
+AN8A4QDIAMkAywDeAN8A5gDnAOgAyQDIAMsAyADJAMsAyADJAMsAyADJAMsAXABdAF4AyADJ
+AMoAywBcAF0AXgDEAMUAxwDIAMkAygBcAF0AXgDEAMUAxwBcAF0AXgDEAMUAxwBcAF0AXgDE
+AMUAxwBcAF0AXgDEAMUAxwBcAF0AXgAdAB4AxADFAMcAXABdAF4AHADEAMUAxwAcAB0AHgDE
+AMUAxwDEAMUAxwDEAMUAxwDEAMUAxwDEAMUAxwDEAMUAxgDHAMQAxQDGAMcAxADFAMYAxwDE
+AMUAxgDHAMQAxQDGAMcAxADFAMcAxADFAMYAxwC8AL0AvwDEAMUAxgC8AL0AvwBAAEEAQgDE
+AMUAxgDHAEAAQQBCAMQAxQDGAEAAQQBCAMQAxQDHAEAAQQBCAMQAxQDHAMQAxQDHAEAAQQBC
+AMQAxQDHAAwADQAOAMQAxQDHAAwADQAOAOAAxADFAMcA3gDfAOAAxADFAMcA3gDfAN8A4ADE
+AMUAxwAMAA0ADgDeAOAAxADFAMcA3gDfAN8A4AAMAA0ADgDeAN8A4AAUABUAFgAMAA0ADgDe
+AOAA4QDeAN8A4ADhAN4A3wDgAOEAxADFAMcA3gDfAOAA4QDeAN8A4QDEAMUAxwAeABwAHQDe
+AN8A4QAeABwAHQDeAN8A4QDeAN8A4QAeADgAOQA7ABwAHQDeAN8A4ADhADgAOQA6AN4A3wDh
+ADgAOQA6AN4A3wDgABQAFQAWADgAOQA6AN4A3wDhADgAOQA6ADsA3gDfABQAFQAWADgAOQA6
+ADgAOQA6ADsAOAA5ADoAHAAdAB4AOAA5ADoAOwAcAB0AHgDTANQA1gBtAG4AbwDTANQA1gBs
+AG0AbgBvANcAowCkAKUA0wDUANgA1gDaAG0AbgBvANMA1ADWANcA2ADZANoA0wDUANUA1gBs
+AG0AbgDTANQA1gDXANgA2gDTANQA1QDWANMA1ADVANYA0wDUANUA0wDUANUA1gDTANQA1QBs
+AG0AbgDTANQA1QBsAG0AbgBsAG0AbgDQANEA0gDTANQA1QBsAG0AbgBsAG0AbgDQANEA0gDd
+ANsAbABtAG4A3ABsAG0AbgDQANEA0gA9AD8AbABtAG4APADQANEA0gBsAG0AbgDQANEA0gA9
+AD8AbABtAG4APADQANEA0gCyALEAswA8AD0APwCxALIAswA8AD0APwDQANEA0gDQANEA0gCy
+ALEAswDQANEA0gDTANQA1QDbANwA3QDTANQA1QDWANsA3ADdANMA1ADWANcA2ADZANsA3ADd
+ANMA1ADWANcA2ADZANoA1wDYANkA2wDcAN0A0ADRANIA2wDcAN0A0ADRANIA1wDYANkA2wDc
+AN0A0ADRANIA0ADRANIAmgCXANcA2ADZAJkAiwCMAI0A0ADRANIA1wDYANkAiwCMAI0A0ADR
+ANIA0ADRANIAiwCMAI0AjgDQANEA0gDAAMEAwwDQANEA0gCyALEAswDBAMMAwADQANEA0gCL
+AIwAjQCOANAA0QDSAMAAwQDDAGFmNDdkMzE3MDA5N2JhYWU0MGNlNzc1MGM2MWEwMmRj</SharedString>
+		<SharedString md5="+tSg1YKJIqAoms7IKVLjLw==">Q1NHUEhTAAAAAEJMT0NL</SharedString>
+	</SharedStrings>
+</roblox>

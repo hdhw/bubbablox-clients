@@ -1,0 +1,100 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="SpecialMesh" referent="RBXAEE42E16875F4052A427EFE6DEF112DD">
+		<Properties>
+			<string name="AttributesSerialize"></string>
+			<token name="LODX">2</token>
+			<token name="LODY">2</token>
+			<string name="MeshId">rbxasset://hotaru/166.mesh</string>
+			<token name="MeshType">5</token>
+			<string name="Name">Mesh</string>
+			<Vector3 name="Offset">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<Vector3 name="Scale">
+				<X>1</X>
+				<Y>1</Y>
+				<Z>1</Z>
+			</Vector3>
+			<string name="Tags"></string>
+			<string name="TextureId"></string>
+			<Vector3 name="VertexColor">
+				<X>1</X>
+				<Y>1</Y>
+				<Z>1</Z>
+			</Vector3>
+		</Properties>
+		<Item class="StringValue" referent="RBX1F2A46DF53644177AE88171685AFF1CD">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<string name="Name">AvatarPartScaleType</string>
+				<string name="Tags"></string>
+				<string name="Value">Classic</string>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBX5DF94752383F4EC9BADBCEA69E3ED239">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<string name="Name">FaceCenterAttachment</string>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBX9898E3F584814827B3F9ECD390776039">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<string name="Name">FaceFrontAttachment</string>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>-0.589999974</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBX1A9F12B95DF6498FAEB73B4FB69E4543">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<string name="Name">HairAttachment</string>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>0.589999974</Y>
+					<Z>-0</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBX32200F3F15024870A06F4FEF173833C3">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<string name="Name">HatAttachment</string>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>0.589999974</Y>
+					<Z>-0</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+		<Item class="Vector3Value" referent="RBX7F3E249E79AF4597B99F77E2096C9839">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<string name="Name">NeckRigAttachment</string>
+				<string name="Tags"></string>
+				<Vector3 name="Value">
+					<X>0</X>
+					<Y>-0.490999997</Y>
+					<Z>-0</Z>
+				</Vector3>
+			</Properties>
+		</Item>
+	</Item>
+</roblox>

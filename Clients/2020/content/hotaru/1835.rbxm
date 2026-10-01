@@ -1,0 +1,264 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Tool" referent="RBX3AA3D1A0E4934FCDA20D4702DE60694B">
+		<Properties>
+			<string name="AttributesSerialize"></string>
+			<bool name="CanBeDropped">true</bool>
+			<bool name="DefinesCapabilities">false</bool>
+			<bool name="Enabled">true</bool>
+			<CoordinateFrame name="Grip">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0.5</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<token name="LevelOfDetail">0</token>
+			<bool name="ManualActivationOnly">false</bool>
+			<CoordinateFrame name="ModelMeshCFrame">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+				<R00>1</R00>
+				<R01>0</R01>
+				<R02>0</R02>
+				<R10>0</R10>
+				<R11>1</R11>
+				<R12>0</R12>
+				<R20>0</R20>
+				<R21>0</R21>
+				<R22>1</R22>
+			</CoordinateFrame>
+			<SharedString name="ModelMeshData">DldRwCblQ7Loqy6wYJnaoQ==</SharedString>
+			<Vector3 name="ModelMeshSize">
+				<X>0</X>
+				<Y>0</Y>
+				<Z>0</Z>
+			</Vector3>
+			<token name="ModelStreamingMode">0</token>
+			<string name="Name">GrabBag</string>
+			<bool name="NeedsPivotMigration">false</bool>
+			<Ref name="PrimaryPart">null</Ref>
+			<bool name="RequiresHandle">true</bool>
+			<float name="ScaleFactor">1</float>
+			<int64 name="SourceAssetId">-1</int64>
+			<string name="Tags"></string>
+			<string name="TextureId">rbxasset://hotaru/1832.png</string>
+			<string name="ToolTip"></string>
+			<OptionalCoordinateFrame name="WorldPivotData">
+				<CFrame>
+					<X>85.93116</X>
+					<Y>-4.59747219</Y>
+					<Z>-15.6467447</Z>
+					<R00>0.844820738</R00>
+					<R01>0.000426046056</R01>
+					<R02>-0.53504926</R02>
+					<R10>9.54987822e-009</R10>
+					<R11>0.999999762</R11>
+					<R12>0.000796289067</R12>
+					<R20>0.535049438</R20>
+					<R21>-0.000672726717</R21>
+					<R22>0.844820499</R22>
+				</CFrame>
+			</OptionalCoordinateFrame>
+		</Properties>
+		<Item class="Part" referent="RBX4590CAFBCDEF48BF81A44A090193541A">
+			<Properties>
+				<bool name="Anchored">false</bool>
+				<string name="AttributesSerialize"></string>
+				<bool name="AudioCanCollide">true</bool>
+				<float name="BackParamA">-0.5</float>
+				<float name="BackParamB">0.5</float>
+				<token name="BackSurface">0</token>
+				<token name="BackSurfaceInput">0</token>
+				<float name="BottomParamA">-0.5</float>
+				<float name="BottomParamB">0.5</float>
+				<token name="BottomSurface">4</token>
+				<token name="BottomSurfaceInput">0</token>
+				<CoordinateFrame name="CFrame">
+					<X>-0.0688399971</X>
+					<Y>1.60040498</Y>
+					<Z>0.103255004</Z>
+					<R00>0.844820738</R00>
+					<R01>0.000426046056</R01>
+					<R02>-0.53504926</R02>
+					<R10>9.54987822e-009</R10>
+					<R11>0.999999762</R11>
+					<R12>0.000796289067</R12>
+					<R20>0.535049438</R20>
+					<R21>-0.000672726717</R21>
+					<R22>0.844820499</R22>
+				</CoordinateFrame>
+				<bool name="CanCollide">true</bool>
+				<bool name="CanQuery">true</bool>
+				<bool name="CanTouch">true</bool>
+				<bool name="CastShadow">true</bool>
+				<string name="CollisionGroup">Default</string>
+				<int name="CollisionGroupId">0</int>
+				<Color3uint8 name="Color3uint8">4278226844</Color3uint8>
+				<PhysicalProperties name="CustomPhysicalProperties">
+					<CustomPhysics>false</CustomPhysics>
+				</PhysicalProperties>
+				<bool name="DefinesCapabilities">false</bool>
+				<bool name="EnableFluidForces">true</bool>
+				<float name="FrontParamA">-0.5</float>
+				<float name="FrontParamB">0.5</float>
+				<token name="FrontSurface">0</token>
+				<token name="FrontSurfaceInput">0</token>
+				<float name="LeftParamA">-0.5</float>
+				<float name="LeftParamB">0.5</float>
+				<token name="LeftSurface">0</token>
+				<token name="LeftSurfaceInput">0</token>
+				<bool name="Locked">true</bool>
+				<bool name="Massless">false</bool>
+				<token name="Material">256</token>
+				<string name="MaterialVariantSerialized"></string>
+				<string name="Name">Handle</string>
+				<CoordinateFrame name="PivotOffset">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+					<R00>1</R00>
+					<R01>0</R01>
+					<R02>0</R02>
+					<R10>0</R10>
+					<R11>1</R11>
+					<R12>0</R12>
+					<R20>0</R20>
+					<R21>0</R21>
+					<R22>1</R22>
+				</CoordinateFrame>
+				<float name="Reflectance">0</float>
+				<float name="RightParamA">-0.5</float>
+				<float name="RightParamB">0.5</float>
+				<token name="RightSurface">0</token>
+				<token name="RightSurfaceInput">0</token>
+				<int name="RootPriority">0</int>
+				<Vector3 name="RotVelocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+				<float name="TopParamA">-0.5</float>
+				<float name="TopParamB">0.5</float>
+				<token name="TopSurface">3</token>
+				<token name="TopSurfaceInput">0</token>
+				<float name="Transparency">0</float>
+				<Vector3 name="Velocity">
+					<X>0</X>
+					<Y>0</Y>
+					<Z>0</Z>
+				</Vector3>
+				<token name="formFactorRaw">1</token>
+				<token name="shape">1</token>
+				<Vector3 name="size">
+					<X>1</X>
+					<Y>1.20000005</Y>
+					<Z>1</Z>
+				</Vector3>
+			</Properties>
+			<Item class="SpecialMesh" referent="RBXB577177F21E943768D11078D20EB05ED">
+				<Properties>
+					<string name="AttributesSerialize"></string>
+					<bool name="DefinesCapabilities">false</bool>
+					<string name="MeshId">rbxasset://hotaru/1833.mesh</string>
+					<token name="MeshType">5</token>
+					<string name="Name">Mesh</string>
+					<Vector3 name="Offset">
+						<X>0</X>
+						<Y>0</Y>
+						<Z>0</Z>
+					</Vector3>
+					<Vector3 name="Scale">
+						<X>2.20000005</X>
+						<Y>2.20000005</Y>
+						<Z>2.20000005</Z>
+					</Vector3>
+					<int64 name="SourceAssetId">-1</int64>
+					<string name="Tags"></string>
+					<string name="TextureId">rbxasset://hotaru/1834.png</string>
+					<Vector3 name="VertexColor">
+						<X>1</X>
+						<Y>1</Y>
+						<Z>1</Z>
+					</Vector3>
+				</Properties>
+			</Item>
+		</Item>
+		<Item class="Script" referent="RBX7DAEA99279C54879A82F2BAB0D4AA5A1">
+			<Properties>
+				<string name="AttributesSerialize"></string>
+				<bool name="DefinesCapabilities">false</bool>
+				<bool name="Disabled">false</bool>
+				<string name="LinkedSource"></string>
+				<string name="Name">Script</string>
+				<token name="RunContext">0</token>
+				<string name="ScriptGuid">{9375B6DB-594F-47FE-90CD-4B1860AE4EE7}</string>
+				<string name="Source">local Tool = script.Parent
+--[[
+     ---- possible gears ----
+&#9;(1)slingshot decoy
+&#9;(2)deploy
+&#9;(3)magic ninja
+&#9;(4)flashbang
+&#9;(5)bucket
+&#9;(6)BANG!
+&#9;(7)magic dragon
+&#9;(8)a very special monster
+&#9;(9)helen the hiphipapotamus
+&#9;(10)ronin katana
+]]
+
+local gears = {33382537,30392263,30847779,16979083,25162389,26419811,24659699,21439991,15179006,12187348}
+
+
+function onActivated()
+&#9;--This call will cause a &quot;wait&quot; until the data comes back
+&#9;local root = game:GetService(&quot;InsertService&quot;):LoadAsset(gears[math.random(1,#gears)])
+
+&#9;local instances = root:GetChildren()
+&#9;if #instances == 0 then
+&#9;&#9;root:Remove()
+&#9;&#9;return
+&#9;end
+
+&#9;root = root:GetChildren()
+&#9;if #root == 1 then
+&#9;&#9;root = root[1]
+&#9;-- needed for irregularity in hippo gear
+&#9;elseif #root == 2 then
+&#9;&#9;for i = 1, #root do
+&#9;&#9;&#9;if root[i].Name == &quot;Hippo&quot; then
+&#9;&#9;&#9;&#9;root = root[i]
+&#9;&#9;&#9;&#9;break
+&#9;&#9;&#9;end
+&#9;&#9;end
+&#9;end
+&#9;print(root)
+&#9;root.Parent = Tool.Parent
+&#9;Tool:Destroy()
+
+end
+
+Tool.Activated:connect(onActivated)
+</string>
+				<int64 name="SourceAssetId">-1</int64>
+				<string name="Tags"></string>
+			</Properties>
+		</Item>
+	</Item>
+	<SharedStrings>
+		<SharedString md5="DldRwCblQ7Loqy6wYJnaoQ=="></SharedString>
+	</SharedStrings>
+</roblox>

@@ -1,0 +1,18 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<External>null</External>
+	<External>nil</External>
+	<Item class="Decal" referent="RBX945F9707F511406A9318C93A43859828">
+		<Properties>
+			<Color3 name="Color3">
+				<R>1</R>
+				<G>1</G>
+				<B>1</B>
+			</Color3>
+			<token name="Face">5</token>
+			<string name="Name">face</string>
+			<string name="Tags"></string>
+			<string name="Texture">rbxasset://hotaru/218.png</string>
+			<float name="Transparency">0</float>
+		</Properties>
+	</Item>
+</roblox>
